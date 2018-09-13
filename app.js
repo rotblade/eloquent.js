@@ -6,7 +6,7 @@ const roads = [
   "Grete's House-Shop", 'Marketplace-Farm',
   'Marketplace-Post Office', 'Marketplace-Shop',
   'Marketplace-Town Hall', 'Shop-Town Hall'
-];
+]
 
 function buildGraph (edges) {
   let graph = Object.create(null)
